@@ -1,6 +1,8 @@
 import pdb; pdb.set_trace()
 import sys
+"""
 sys.path.insert(0,/natio/Documents/UW/BIOEN 437 Computational Systems Biology/.Codes/437_example_Kazuki)
+"""
 from program import hello
 import unittest
 
